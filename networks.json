@@ -74,7 +74,7 @@
         "description": "HA Proxy node provided by EOSMetal"
       }
     ]
-  }
+  },
   {
     "name": "My Testnet",
     "description": "Welcome to the Jungle",
